@@ -1,6 +1,6 @@
 # О проекте
 * В корнемой папке **[main.exe](https://github.com/vldstkn/hak_test/blob/master/main.exe)** - собранное приложение
-* Адресс: localhost:50051
+* Адрес: localhost:50051
 * Файл **proto** в папке [proto/](https://github.com/vldstkn/hak_test/tree/master/proto)
 * Адрес - **localhost:50051**
 
